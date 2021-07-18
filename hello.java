@@ -2,7 +2,7 @@ class Hello
 {
 public static void main(String args[])
 {
-System.out.println("author info change");
+System.out.println("changes in child");
 }
 }
 
